@@ -1,0 +1,37 @@
+{
+    "type": "User Profile",
+    "name": "gonzalocatrina1",
+    "project": "Governance",
+    "id": "0ecc6aa0-126c-407b-bdc0-5cc4f2a410a4",
+    "config": "{\"codeName\":\"gonzalocatrina1\",\"signature\":{\"message\":\"gonzalocatrina1\",\"messageHash\":\"0xb681014eacfa791629b171b05432db608c6dfad6ac64e686f57891ba07457e1e\",\"v\":\"0x1c\",\"r\":\"0x5007ebbd6b601749b1199ddf97db081ef1451dfe5c7ca1e6029ed056ab8b1960\",\"s\":\"0x4583a215f46d277e738c7537cfc5a60a54f7aed2770124431c011f0f8e4ac44f\",\"signature\":\"0x5007ebbd6b601749b1199ddf97db081ef1451dfe5c7ca1e6029ed056ab8b19604583a215f46d277e738c7537cfc5a60a54f7aed2770124431c011f0f8e4ac44f1c\"}}",
+    "userApps": {
+        "type": "User Apps",
+        "name": "New User Apps",
+        "project": "User-Apps",
+        "id": "86d1ff53-4d6a-4f50-bd4a-eb1a72306773",
+        "config": "{}",
+        "desktopApps": {
+            "type": "Desktop Apps",
+            "name": "New Desktop Apps",
+            "project": "User-Apps",
+            "id": "a4c92c1f-02d7-4841-bca9-c7a57b6689fc",
+            "config": "{}",
+            "socialTradingDesktopApps": [
+                {
+                    "type": "Social Trading Desktop App",
+                    "name": "Social Trading Desktop App #1",
+                    "project": "User-Apps",
+                    "id": "1b737fcc-b887-41b9-8252-3240bc37a0cf",
+                    "config": "{\n    \"codeName\": \"Social-Trading-Desktop-App-1\"\n}",
+                    "signingAccount": {
+                        "type": "Signing Account",
+                        "name": "New Signing Account",
+                        "project": "Governance",
+                        "id": "9398c392-0a3d-490b-a6a7-903b1abef44e",
+                        "config": "{\"codeName\":\"Social-Trading-Desktop-App-1\",\"signature\":{\"message\":\"gonzalocatrina1\",\"messageHash\":\"0xb681014eacfa791629b171b05432db608c6dfad6ac64e686f57891ba07457e1e\",\"v\":\"0x1b\",\"r\":\"0xfe8fe421e7ec20b9d19579b89eb315e9b4d070ca6f602b3df5352d8dfe7d21a8\",\"s\":\"0x24a670a5b57cc4dde74c734fabffbe83d1759d69a77268d251afb4429f70b40b\",\"signature\":\"0xfe8fe421e7ec20b9d19579b89eb315e9b4d070ca6f602b3df5352d8dfe7d21a824a670a5b57cc4dde74c734fabffbe83d1759d69a77268d251afb4429f70b40b1b\"}}"
+                    }
+                }
+            ]
+        }
+    }
+}
